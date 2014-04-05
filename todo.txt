@@ -1,0 +1,349 @@
+
+ Icons Created / Todo 
+
+
+
+-----------actions------------
+In Database                               Todo                                      Done                                      Possible Error                           
+
+
+address-book-new                         address-book-new                         call-start                               folder                                   
+application-exit                         application-exit                         call-stop                                                                         
+appointment-new                          appointment-new                          edit-cut                                                                          
+call-start                               contact-new                              edit-paste                                                                        
+call-stop                                document-new                             edit-redo                                                                         
+contact-new                              document-open                            edit-undo                                                                         
+document-new                             document-open-recent                     folder                                                                            
+document-open                            document-page-setup                      format-indent-less                                                                
+document-open-recent                     document-print                           format-indent-more                                                                
+document-page-setup                      document-print-preview                   format-justify-center                                                             
+document-print                           document-properties                      format-justify-fill                                                               
+document-print-preview                   document-revert                          format-justify-left                                                               
+document-properties                      document-save                            format-justify-right                                                              
+document-revert                          document-save-as                         format-text-bold                                                                  
+document-save                            document-send                            format-text-italic                                                                
+document-save-as                         edit-clear                               format-text-strikethrough                                                         
+document-send                            edit-copy                                format-text-underline                                                             
+edit-clear                               edit-delete                              go-bottom                                                                         
+edit-copy                                edit-find                                go-down                                                                           
+edit-cut                                 edit-find-replace                        go-first                                                                          
+edit-delete                              edit-select-all                          go-home                                                                           
+edit-find                                folder-new                               go-last                                                                           
+edit-find-replace                        format-text-direction-ltr                go-next                                                                           
+edit-paste                               format-text-direction-rtl                go-previous                                                                       
+edit-redo                                go-jump                                  go-top                                                                            
+edit-select-all                          insert-text                              go-up                                                                             
+edit-undo                                list-add                                 help-about                                                                        
+folder-new                               list-remove                              help-contents                                                                     
+format-indent-less                       mail-forward                             help-faq                                                                          
+format-indent-more                       mail-mark-important                      insert-image                                                                      
+format-justify-center                    mail-mark-junk                           insert-link                                                                       
+format-justify-fill                      mail-mark-notjunk                        insert-object                                                                     
+format-justify-left                      mail-mark-read                           mail-reply-all                                                                    
+format-justify-right                     mail-mark-unread                         media-eject                                                                       
+format-text-bold                         mail-message-new                         media-playback-pause                                                              
+format-text-direction-ltr                mail-reply-sender                        media-playback-start                                                              
+format-text-direction-rtl                mail-send                                media-playback-stop                                                               
+format-text-italic                       mail-send-receive                        media-record                                                                      
+format-text-strikethrough                object-flip-horizontal                   media-seek-backward                                                               
+format-text-underline                    object-flip-vertical                     media-seek-forward                                                                
+go-bottom                                process-stop                             media-skip-backward                                                               
+go-down                                  system-run                               media-skip-forward                                                                
+go-first                                 tools-check-spelling                     object-rotate-left                                                                
+go-home                                  view-fullscreen                          object-rotate-right                                                               
+go-jump                                  view-refresh                             system-lock-screen                                                                
+go-last                                  view-restore                             system-log-out                                                                    
+go-next                                                                           system-reboot                                                                     
+go-previous                                                                       system-search                                                                     
+go-top                                                                            system-shutdown                                                                   
+go-up                                                                             view-sort-ascending                                                               
+help-about                                                                        view-sort-descending                                                              
+help-contents                                                                     window-close                                                                      
+help-faq                                                                          window-new                                                                        
+insert-image                                                                      zoom-fit-best                                                                     
+insert-link                                                                       zoom-in                                                                           
+insert-object                                                                     zoom-original                                                                     
+insert-text                                                                       zoom-out                                                                          
+list-add                                                                                                                                                            
+list-remove                                                                                                                                                         
+mail-forward                                                                                                                                                        
+mail-mark-important                                                                                                                                                 
+mail-mark-junk                                                                                                                                                      
+mail-mark-notjunk                                                                                                                                                   
+mail-mark-read                                                                                                                                                      
+mail-mark-unread                                                                                                                                                    
+mail-message-new                                                                                                                                                    
+mail-reply-all                                                                                                                                                      
+mail-reply-sender                                                                                                                                                   
+mail-send                                                                                                                                                           
+mail-send-receive                                                                                                                                                   
+media-eject                                                                                                                                                         
+media-playback-pause                                                                                                                                                
+media-playback-start                                                                                                                                                
+media-playback-stop                                                                                                                                                 
+media-record                                                                                                                                                        
+media-seek-backward                                                                                                                                                 
+media-seek-forward                                                                                                                                                  
+media-skip-backward                                                                                                                                                 
+media-skip-forward                                                                                                                                                  
+object-flip-horizontal                                                                                                                                              
+object-flip-vertical                                                                                                                                                
+object-rotate-left                                                                                                                                                  
+object-rotate-right                                                                                                                                                 
+process-stop                                                                                                                                                        
+system-lock-screen                                                                                                                                                  
+system-log-out                                                                                                                                                      
+system-reboot                                                                                                                                                       
+system-run                                                                                                                                                          
+system-search                                                                                                                                                       
+system-shutdown                                                                                                                                                     
+tools-check-spelling                                                                                                                                                
+view-fullscreen                                                                                                                                                     
+view-refresh                                                                                                                                                        
+view-restore                                                                                                                                                        
+view-sort-ascending                                                                                                                                                 
+view-sort-descending                                                                                                                                                
+window-close                                                                                                                                                        
+window-new                                                                                                                                                          
+zoom-fit-best                                                                                                                                                       
+zoom-in                                                                                                                                                             
+zoom-original                                                                                                                                                       
+zoom-out                                                                                                                                                            
+
+
+----------animations----------
+In Database                               Todo                                      Done                                      Possible Error                           
+
+
+process-working                          process-working                          forgit                                   forgit                                   
+
+
+---------applications---------
+In Database                               Todo                                      Done                                      Possible Error                           
+
+
+accessories-calculator                   accessories-character-map                accessories-calculator                                                            
+accessories-character-map                accessories-dictionary                   utilities-system-monitor                                                          
+accessories-dictionary                   accessories-text-editor                  utilities-terminal                                                                
+accessories-text-editor                  help-browser                                                                                                               
+help-browser                             multimedia-volume-control                                                                                                  
+multimedia-volume-control                preferences-desktop-accessibility                                                                                          
+preferences-desktop-accessibility        preferences-desktop-font                                                                                                   
+preferences-desktop-font                 preferences-desktop-keyboard                                                                                               
+preferences-desktop-keyboard             preferences-desktop-locale                                                                                                 
+preferences-desktop-locale               preferences-desktop-multimedia                                                                                             
+preferences-desktop-multimedia           preferences-desktop-screensaver                                                                                            
+preferences-desktop-screensaver          preferences-desktop-theme                                                                                                  
+preferences-desktop-theme                preferences-desktop-wallpaper                                                                                              
+preferences-desktop-wallpaper            system-file-manager                                                                                                        
+system-file-manager                      system-software-install                                                                                                    
+system-software-install                  system-software-update                                                                                                     
+system-software-update                                                                                                                                              
+utilities-system-monitor                                                                                                                                            
+utilities-terminal                                                                                                                                                  
+
+
+----------categories----------
+In Database                               Todo                                      Done                                      Possible Error                           
+
+
+applications-accessories                 preferences-desktop                      applications-accessories                                                          
+applications-development                 preferences-desktop-peripherals          applications-development                                                          
+applications-engineering                 preferences-desktop-personal             applications-engineering                                                          
+applications-games                       preferences-other                        applications-games                                                                
+applications-graphics                    preferences-system                       applications-graphics                                                             
+applications-internet                    preferences-system-network               applications-internet                                                             
+applications-multimedia                                                           applications-multimedia                                                           
+applications-office                                                               applications-office                                                               
+applications-other                                                                applications-other                                                                
+applications-science                                                              applications-science                                                              
+applications-system                                                               applications-system                                                               
+applications-utilities                                                            applications-utilities                                                            
+preferences-desktop                                                               system-help                                                                       
+preferences-desktop-peripherals                                                                                                                                     
+preferences-desktop-personal                                                                                                                                        
+preferences-other                                                                                                                                                   
+preferences-system                                                                                                                                                  
+preferences-system-network                                                                                                                                          
+system-help                                                                                                                                                         
+
+
+-----------devices------------
+In Database                               Todo                                      Done                                      Possible Error                           
+
+
+audio-card                               audio-card                               audio-input-microphone                                                            
+audio-input-microphone                   battery                                  computer                                                                          
+battery                                  camera-photo                             drive-harddisk                                                                    
+camera-photo                             camera-video                             input-gaming                                                                      
+camera-video                             camera-web                               input-keyboard                                                                    
+camera-web                               drive-optical                            media-floppy                                                                      
+computer                                 drive-removable-media                    media-optical                                                                     
+drive-harddisk                           input-mouse                              modem                                                                             
+drive-optical                            input-tablet                             network-wired                                                                     
+drive-removable-media                    media-flash                              network-wireless                                                                  
+input-gaming                             media-tape                               phone                                                                             
+input-keyboard                           multimedia-player                        printer                                                                           
+input-mouse                              pda                                      video-display                                                                     
+input-tablet                             scanner                                                                                                                    
+media-flash                                                                                                                                                         
+media-floppy                                                                                                                                                        
+media-optical                                                                                                                                                       
+media-tape                                                                                                                                                          
+modem                                                                                                                                                               
+multimedia-player                                                                                                                                                   
+network-wired                                                                                                                                                       
+network-wireless                                                                                                                                                    
+pda                                                                                                                                                                 
+phone                                                                                                                                                               
+printer                                                                                                                                                             
+scanner                                                                                                                                                             
+video-display                                                                                                                                                       
+
+
+-----------emblems------------
+In Database                               Todo                                      Done                                      Possible Error                           
+
+
+emblem-default                                                                    emblem-default                                                                    
+emblem-documents                                                                  emblem-documents                                                                  
+emblem-downloads                                                                  emblem-downloads                                                                  
+emblem-favorite                                                                   emblem-favorite                                                                   
+emblem-important                                                                  emblem-important                                                                  
+emblem-mail                                                                       emblem-mail                                                                       
+emblem-photos                                                                     emblem-photos                                                                     
+emblem-readonly                                                                   emblem-readonly                                                                   
+emblem-shared                                                                     emblem-shared                                                                     
+emblem-symbolic-link                                                              emblem-symbolic-link                                                              
+emblem-synchronized                                                               emblem-synchronized                                                               
+emblem-system                                                                     emblem-system                                                                     
+emblem-unreadable                                                                 emblem-unreadable                                                                 
+
+
+------------emotes------------
+In Database                               Todo                                      Done                                      Possible Error                           
+
+
+face-angel                               face-angel                               face-happy                               face-happy                               
+face-angry                               face-angry                               face-plain                                                                        
+face-cool                                face-cool                                face-sad                                                                          
+face-crying                              face-crying                                                                                                                
+face-devilish                            face-devilish                                                                                                              
+face-embarrassed                         face-embarrassed                                                                                                           
+face-kiss                                face-kiss                                                                                                                  
+face-laugh                               face-laugh                                                                                                                 
+face-monkey                              face-monkey                                                                                                                
+face-plain                               face-raspberry                                                                                                             
+face-raspberry                           face-sick                                                                                                                  
+face-sad                                 face-smile                                                                                                                 
+face-sick                                face-smile-big                                                                                                             
+face-smile                               face-smirk                                                                                                                 
+face-smile-big                           face-surprise                                                                                                              
+face-smirk                               face-tired                                                                                                                 
+face-surprise                            face-uncertain                                                                                                             
+face-tired                               face-wink                                                                                                                  
+face-uncertain                           face-worried                                                                                                               
+face-wink                                                                                                                                                           
+face-worried                                                                                                                                                        
+
+
+----------mimetypes-----------
+In Database                               Todo                                      Done                                      Possible Error                           
+
+
+application-x-executable                 application-x-executable                 forgit                                   forgit                                   
+audio-x-generic                          audio-x-generic                                                                                                            
+font-x-generic                           font-x-generic                                                                                                             
+image-x-generic                          image-x-generic                                                                                                            
+package-x-generic                        package-x-generic                                                                                                          
+text-html                                text-html                                                                                                                  
+text-x-generic                           text-x-generic                                                                                                             
+text-x-generic-template                  text-x-generic-template                                                                                                    
+text-x-script                            text-x-script                                                                                                              
+video-x-generic                          video-x-generic                                                                                                            
+x-office-address-book                    x-office-address-book                                                                                                      
+x-office-calendar                        x-office-calendar                                                                                                          
+x-office-document                        x-office-document                                                                                                          
+x-office-presentation                    x-office-presentation                                                                                                      
+x-office-spreadsheet                     x-office-spreadsheet                                                                                                       
+
+
+------------places------------
+In Database                               Todo                                      Done                                      Possible Error                           
+
+
+                                                                                  folder                                                                            
+folder                                   network-server                           folder-remote                                                                     
+folder-remote                            network-workgroup                        user-bookmarks                                                                    
+network-server                           start-here                               user-desktop                                                                      
+network-workgroup                                                                 user-home                                                                         
+start-here                                                                        user-trash                                                                        
+user-bookmarks                                                                                                                                                      
+user-desktop                                                                                                                                                        
+user-home                                                                                                                                                           
+user-trash                                                                                                                                                          
+
+
+------------status------------
+In Database                               Todo                                      Done                                      Possible Error                           
+
+
+appointment-missed                       appointment-missed                       audio-volume-high                                                                 
+appointment-soon                         appointment-soon                         audio-volume-low                                                                  
+audio-volume-high                        battery-caution                          audio-volume-medium                                                               
+audio-volume-low                         battery-low                              audio-volume-muted                                                                
+audio-volume-medium                      folder-drag-accept                       dialog-error                                                                      
+audio-volume-muted                       folder-open                              dialog-information                                                                
+battery-caution                          folder-visiting                          dialog-password                                                                   
+battery-low                              image-loading                            dialog-question                                                                   
+dialog-error                             image-missing                            dialog-warning                                                                    
+dialog-information                       mail-attachment                          media-playlist-repeat                                                             
+dialog-password                          mail-read                                media-playlist-shuffle                                                            
+dialog-question                          mail-replied                                                                                                               
+dialog-warning                           mail-signed                                                                                                                
+folder-drag-accept                       mail-signed-verified                                                                                                       
+folder-open                              mail-unread                                                                                                                
+folder-visiting                          network-error                                                                                                              
+image-loading                            network-idle                                                                                                               
+image-missing                            network-offline                                                                                                            
+mail-attachment                          network-receive                                                                                                            
+mail-read                                network-transmit                                                                                                           
+mail-replied                             network-transmit-receive                                                                                                   
+mail-signed                              printer-error                                                                                                              
+mail-signed-verified                     printer-printing                                                                                                           
+mail-unread                              security-high                                                                                                              
+media-playlist-repeat                    security-low                                                                                                               
+media-playlist-shuffle                   security-medium                                                                                                            
+network-error                            software-update-available                                                                                                  
+network-idle                             software-update-urgent                                                                                                     
+network-offline                          sync-error                                                                                                                 
+network-receive                          sync-synchronizing                                                                                                         
+network-transmit                         task-due                                                                                                                   
+network-transmit-receive                 task-past-due                                                                                                              
+printer-error                            user-available                                                                                                             
+printer-printing                         user-away                                                                                                                  
+security-high                            user-idle                                                                                                                  
+security-low                             user-offline                                                                                                               
+security-medium                          user-trash-full                                                                                                            
+software-update-available                weather-clear                                                                                                              
+software-update-urgent                   weather-clear-night                                                                                                        
+sync-error                               weather-few-clouds                                                                                                         
+sync-synchronizing                       weather-few-clouds-night                                                                                                   
+task-due                                 weather-fog                                                                                                                
+task-past-due                            weather-overcast                                                                                                           
+user-available                           weather-severe-alert                                                                                                       
+user-away                                weather-showers                                                                                                            
+user-idle                                weather-showers-scattered                                                                                                  
+user-offline                             weather-snow                                                                                                               
+user-trash-full                          weather-storm                                                                                                              
+weather-clear                                                                                                                                                       
+weather-clear-night                                                                                                                                                 
+weather-few-clouds                                                                                                                                                  
+weather-few-clouds-night                                                                                                                                            
+weather-fog                                                                                                                                                         
+weather-overcast                                                                                                                                                    
+weather-severe-alert                                                                                                                                                
+weather-showers                                                                                                                                                     
+weather-showers-scattered                                                                                                                                           
+weather-snow                                                                                                                                                        
+weather-storm                                                                                                                                                       
