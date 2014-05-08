@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="512px"
+   height="512px"
+   viewBox="0 0 512 512"
+   style="enable-background:new 0 0 512 512;"
+   xml:space="preserve"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="battery-caution.svg"><metadata
+     id="metadata9"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs7" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="986"
+     id="namedview5"
+     showgrid="true"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="-2"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1"><inkscape:grid
+       type="xygrid"
+       id="grid2995" /></sodipodi:namedview><path
+     d="m 192.05,42.15 0,36.9 -54,0 c -5.5,0 -10,4.3 -10,9.9 l 0,381 c 0,5.6 4.5,10.1 10,10.1 l 236,0 c 5.5,0 10,-4.5 10,-10.1 l 0,-381.1 c 0,-5.5 -4.5,-9.9 -10,-9.9 l -54,0 0,-36.9 c 0,-5.6 -4.5,-10.1 -10,-10.1 l -108,0 c -5.5,0.1 -10,4.6 -10,10.2 z m 96,21.9 0,14.8 0,32.2 32,0 32,0 0,337 -192,0 0,-337 32,0 32,0 0,-32.2 0,-14.8 64,0 z"
+     id="path3"
+     inkscape:connector-curvature="0" /><g
+     transform="matrix(0.18674244,0,0,-0.18674244,198.06431,411.11865)"
+     id="g4"><path
+       style="fill:#000000"
+       inkscape:connector-curvature="0"
+       d="M 512,288 V 64 Q 512,38 493,19 474,0 448,0 H 192 q -26,0 -45,19 -19,19 -19,45 v 224 q 0,26 19,45 19,19 45,19 h 256 q 26,0 45,-19 19,-19 19,-45 z M 542,1344 514,576 Q 513,550 493.5,531 474,512 448,512 H 192 q -26,0 -45.5,19 -19.5,19 -20.5,45 l -28,768 q -1,26 17.5,45 18.5,19 44.5,19 h 320 q 26,0 44.5,-19 18.5,-19 17.5,-45 z"
+       id="path6" /></g></svg>
